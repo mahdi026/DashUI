@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Mui-checked {
+  color: #624bff !important;
+}
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  color: #919eab !important;
+}
+
+.css-ahj2mt-MuiTypography-root {
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  /* color: #161c24 !important; */
+}
